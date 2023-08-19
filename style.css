@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: lightgreen;
+}
+a {
+   color:blue;
+}
+nav {
+    display: flex;
+}
+.link-header {
+    font-size: 30px;
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+    font-family: Gill Sans;
+
+}
+.link-nav {
+    margin-left: 24px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Gill Sans;
+    border: 2px solid lightgreen;
+    background-color: white;
+    border-radius: 20%;
+    margin-top: 10px;
+
+}
+p { 
+     font-size: 25px;
+   font-family: Gill sans;
+   color: firebrick
+
+}
+main {
+    background-color: violet;
+}
+footer {
+    background-color: royalblue;
+}
+h1 {
+ font-size: 40px;
+ color: royalblue
+}
+h2, h3{
+    font-size: 40px;
+    color: royalblue;
+}
+a :hover {
+    color: lightskyblue;
+}
+.mg
